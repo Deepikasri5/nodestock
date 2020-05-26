@@ -1,0 +1,20 @@
+TESLA- TSLA
+Genpact  - G
+Facebook - fb
+Grocery Outlet Holding Corp. (GO)
+Alphabet, Inc. (GOOG)
+apple - AAPL
+"MSFT",
+    "NOK",
+    "IBM",
+    "HPQ",
+    "GOOGL",
+    "XLK"
+    NFLX
+    AMZN
+    HPQ
+    dell
+    WTKWY
+    sne - sony
+    jpm
+    wmt
